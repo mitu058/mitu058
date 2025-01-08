@@ -1,5 +1,5 @@
 <div align="center">
-  <img style={{ objectFit: "cover", width: "100%", height: "200px"}} src="https://i.ibb.co.com/mRV1NJh/1.png"  />
+  <img style={{ objectFit: "cover", width: "100%", height: "180px"}} src="https://i.ibb.co.com/mRV1NJh/1.png"  />
 </div>
 
 ###
