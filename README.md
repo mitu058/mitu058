@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="180" src="https://i.ibb.co.com/mRV1NJh/1.png"  />
+  <img height="180" width="full" src="https://i.ibb.co.com/mRV1NJh/1.png"  />
 </div>
 
 ###
