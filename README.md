@@ -1,26 +1,10 @@
-
-
-<!--
-**mitu058/mitu058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
-  <img height="180" width="full" src="https://i.ibb.co.com/mRV1NJh/1.png"  />
+  <img height="180" src="https://i.ibb.co.com/mRV1NJh/1.png"  />
 </div>
 
 ###
 
-<h1 align="center">Hello! 👋 I'm Farhana Islam Mitu</h1>
+<h1 align="center">Hello! I'm Farhana Islam Mitu</h1>
 
 ###
 
@@ -28,15 +12,15 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">About me</h4>
+<h3 align="left">About me</h3>
 
 ###
 
-<p align="left">Hi there! 👋 I'm a passionate web developer focused on building clean, responsive, and user-friendly websites. I love working with modern tools like React, Tailwind CSS, and JavaScript to bring creative ideas to life. Always learning and exploring new technologies to grow as a developer. Let's collaborate and build something amazing!</p>
+<p align="left">I'm a passionate web developer focused on building clean, responsive, and user-friendly websites. I love working with modern tools like React, Tailwind CSS, and JavaScript to bring creative ideas to life. Always learning and exploring new technologies to grow as a developer. Let's collaborate and build something amazing!</p>
 
 ###
 
-<h4 align="left">I code with</h4>
+<h3 align="left">I code with</h3>
 
 ###
 
@@ -58,19 +42,23 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">Contact with me</h4>
+<h3 align="left">Contact with me</h3>
 
 ###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://x.com/mitu057" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="https://www.facebook.com/farhana.islam.211398" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
 
-<h4 align="left">My Status</h4>
+<h3 align="left">My Status</h3>
 
 ###
