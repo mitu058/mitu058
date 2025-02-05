@@ -1,5 +1,5 @@
 <div align="center">
-  <img  
+  <img style={{ objectFit: "cover", width: "100%", height: "200px"}} 
   src="https://i.ibb.co.com/nNj9s0J5/farm-to-table.png"  />
 </div>
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">Frontend web Developer</h3>
+<h3 align="center">FrontEnd Web Developer</h3>
 
 ###
 
@@ -52,7 +52,10 @@
   <a href="https://x.com/mitu057" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
- 
+  <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://www.facebook.com/farhana.islam.211398" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a> -->
 </div>
 
 
